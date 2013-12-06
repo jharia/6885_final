@@ -5,6 +5,8 @@ Final Project for 6.885 Fall 2013. Intelligent search in DataHub.
 
 Research Question: Given a table, how can one find best candidates for joins and unions? 
 
+Report Document (in progress): goo.gl/zQW7Zc
+
 To run the code: Go into the /environments/django1.3 folder and run source bin/activate to activate the Django1.3 virtualenv needed to run ConceptNet5.
 
 Major libraries/ technologies used: ConceptNet5, psycopg2
